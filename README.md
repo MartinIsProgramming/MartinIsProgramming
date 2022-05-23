@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, my name is Martin.
+#### A passionate frontend developer! 🧑‍💻
+I love frontend development, and I spend my free time searching the web for new topics to learn and courses to take related to the topic. 
 
-<!--
-**MartinIsProgramming/martinisProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Skills:
+  - JavaScript / TypeScript
+  - HTML
+  - CSS  
+  - React 
+  - Tailwind
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning: 
+    -  backend dev with Node.js
+    -  frontend with Vue.js 
+- ⚡ Fun fact: I am a React activist! 😆 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
