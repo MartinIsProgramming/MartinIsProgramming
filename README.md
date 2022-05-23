@@ -2,7 +2,7 @@
 #### A passionate frontend developer! 🧑‍💻
 I love frontend development, and I spend my free time searching the web for new topics to learn and courses to take related to the topic. 
 
-- Skills:
+- 💻 Skills:
   - JavaScript / TypeScript
   - HTML
   - CSS  
