@@ -6,13 +6,13 @@ I currently work as a frontend developer at Clockwork, a financial application t
 
 👨‍🔧 Some of the technologies that I am using are:
 - React --> CRA/Next.js 
-- JavaScript / TypeScript
-- HTML
+- JavaScript/TypeScript
 - React router 
-- CSS -> Styled Components, SCSS
+- CSS -> Styled Components/SASS
 - React Query
 - Redux
 
-- ⚡ Fun fact: I am a React activist! 😆 
+
+⚡ Fun fact: I am a React activist! 😆 
 
 
